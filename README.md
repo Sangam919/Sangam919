@@ -1,4 +1,43 @@
- I'm currently working on  <br>Building a **Voice Assistant** using **Flutter**, integrating AI-powered features like **image generation, ChatGPT responses, and advanced functionalities**. Also, actively solving **LeetCode challenges** to strengthen my **DSA skills**.  <br><br> 🤝 I'm looking to collaborate on  <br>Exciting projects in **AI, ML, and Data Science**, especially in areas like **Natural Language Processing (NLP), Computer Vision, and Predictive Analytics**. Also open to **Flutter app development collaborations**.  <br><br> 🤝 I'm looking for help with  <br>Advanced **Machine Learning techniques, Large Language Models (LLMs), and deployment strategies** for AI applications. Also, improving **system design skills** for scalable solutions.  <br><br> 🌱 I'm currently learning  <br>- **Data Science & Machine Learning** (Deep Learning, Model Optimization, MLOps)  <br>- **Flutter & Cross-Platform App Development**  <br>- **Cloud Computing & DevOps** for scalable deployments  <br>- **Competitive Programming & Advanced Algorithms**  <br><br> 💬 Ask me about  <br>- **Data Structures & Algorithms (DSA)**<br>- **Machine Learning & AI**  <br>- **Flutter App Development**  <br>- **Data Science Projects & Problem-Solving Strategies**  <br><br> ⚡ Fun fact  <br>I enjoy **swimming** as a way to relax and also have a keen interest in **photography** 📸!  <br><br>
+ 👋 Hi! I'm currently an Intern at Celebal Technologies, working on building a Voice Assistant using Flutter with AI-powered features like image generation, ChatGPT responses, and other advanced functionalities.<br>
+🚀 Alongside, I actively solve LeetCode challenges to strengthen my Data Structures & Algorithms (DSA) skills.<br><br>
+
+🤝 Looking to Collaborate<br>
+
+Exciting projects in AI, Machine Learning, and Data Science<br>
+
+Focus areas: Natural Language Processing (NLP), Computer Vision, Predictive Analytics<br>
+
+Flutter-based cross-platform app development<br><br>
+
+🤝 Seeking Help With<br>
+
+Advanced Machine Learning techniques<br>
+
+Working with Large Language Models (LLMs)<br>
+
+Deployment strategies for scalable AI applications<br>
+
+Improving system design skills for scalable solutions<br><br>
+
+🌱 Currently Learning<br>
+
+Data Science & Machine Learning (Deep Learning, Model Optimization, MLOps)<br>
+
+Flutter & Cross-Platform App Development<br>
+
+Cloud Computing & DevOps for scalable deployments<br>
+
+Competitive Programming & Advanced Algorithms<br><br>
+
+💬 Ask Me About<br>
+
+Data Structures & Algorithms (DSA)<br>
+
+Machine Learning & AI<br>
+
+Flutter App Development<br>
+
+Data Science Projects & Problem-Solving Strategies<br><br>
 
 
 🌐 Socials:
