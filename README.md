@@ -3,7 +3,7 @@
 
 🤝 Looking to Collaborate<br>
 
-Exciting projects in AI, Machine Learning, and Data Science<br>
+Exciting projects in AI, Machine Learning, and Data Science<br> 
  
 Focus areas: Natural Language Processing (NLP), Computer Vision, Predictive Analytics<br>
 
