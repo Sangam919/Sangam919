@@ -2,20 +2,18 @@
 
 🚀 **Software Engineering Student | AI & Data Enthusiast | Problem Solver**  
 🎓 B.Tech CSE @ Lovely Professional University  
-💼 **Ex-Intern @ Celebal Technologies | Ex-Intern @ SSH Infotech**  
+💼 **Ex-Intern @ Celebal Technologies | Ex-Intern @ SSH Infotech**
 
 ---
 
 ## 💡 About Me
 
-I’m a **Computer Science Engineering student** with a strong foundation in **Data Structures & Algorithms (DSA)**, **Machine Learning**, and **AI-driven application development**.
+I’m a **Computer Science Engineering student** with a strong foundation in  
+**Data Structures & Algorithms (DSA)**, **Machine Learning**, and **AI-driven application development**.
 
-I have previously worked as an **Intern at Celebal Technologies and SSH Infotech**, where I gained hands-on experience in:
-- Building **real-world software solutions**
-- Working with **AI/ML concepts and data-driven systems**
-- Understanding **industry-level development practices**
+I have previously worked as an **Intern at Celebal Technologies and SSH Infotech**, gaining hands-on experience with real-world software systems and industry practices.
 
-During my internship at **Celebal Technologies**, I worked on an **AI-powered Voice Assistant** using **Flutter**, integrating features such as:
+At **Celebal Technologies**, I worked on an **AI-powered Voice Assistant** using **Flutter**, integrating:
 - 🤖 Conversational AI (ChatGPT)
 - 🖼️ AI-based Image Generation
 - ⚙️ Intelligent workflows & automation
@@ -24,52 +22,49 @@ During my internship at **Celebal Technologies**, I worked on an **AI-powered Vo
 
 ## 🎯 Current Focus (Placement Preparation)
 
-At present, I am **fully focused on placement preparation**, with major emphasis on:
+Currently, I am fully focused on **placement preparation**, with emphasis on:
 - 🧠 **Data Structures & Algorithms (DSA)**
-- 📈 **Machine Learning & Core AI Concepts**
-- 🧪 Problem-solving through **LeetCode & competitive programming**
-- 🏗️ Strengthening **system design fundamentals**
+- 📈 **Machine Learning & core AI concepts**
+- 🧪 **LeetCode & competitive programming**
+- 🏗️ **System design fundamentals**
 
-My goal is to crack **product-based and data-driven roles** by combining strong **problem-solving skills** with **practical AI knowledge**.
+My goal is to crack **product-based and data-driven roles** by combining strong problem-solving skills with practical AI knowledge.
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-- 🤖 **AI & Machine Learning Projects**
-- 🧠 **NLP, Computer Vision & Predictive Analytics**
-- 📊 **Data Science & Analytics Applications**
-- 🏗️ **End-to-End AI Projects (Model → API → Application)**
+- 🤖 AI & Machine Learning projects  
+- 🧠 NLP, Computer Vision & Predictive Analytics  
+- 📊 Data Science & Analytics applications  
+- 🏗️ End-to-End AI projects (Model → API → Application)
 
 ---
 
 ## 🆘 Looking for Guidance In
 
-- Advanced **Machine Learning & Deep Learning**
-- Working with **Large Language Models (LLMs)**
-- **MLOps & scalable AI deployment**
-- **System Design** for real-world applications
+- Advanced Machine Learning & Deep Learning  
+- Large Language Models (LLMs)  
+- MLOps & scalable AI deployment  
+- System design for real-world applications  
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📈 **Machine Learning & Data Science**
-  - Core ML algorithms
-  - Deep Learning concepts
-  - Model optimization basics
-- 🧠 **Advanced DSA & Competitive Programming**
-- ☁️ **Cloud & deployment fundamentals**
-- 🏗️ **System Design (Beginner → Intermediate)**
+- 📈 Machine Learning & Data Science  
+- 🧠 Advanced DSA & Competitive Programming  
+- ☁️ Cloud & deployment fundamentals  
+- 🏗️ System design (Beginner → Intermediate)  
 
 ---
 
 ## 💬 Ask Me About
 
-- Data Structures & Algorithms (DSA)
-- Machine Learning & AI basics
-- Internship experience & learning roadmap
-- Problem-solving strategies
+- Data Structures & Algorithms (DSA)  
+- Machine Learning & AI basics  
+- Internship experience  
+- Problem-solving strategies  
 
 ---
 
@@ -96,9 +91,11 @@ My goal is to crack **product-based and data-driven roles** by combining strong 
 
 ## 📊 GitHub Stats
 
-![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangam919&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sangam919&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangam919&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangam919&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sangam919&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangam919&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -110,4 +107,4 @@ My goal is to crack **product-based and data-driven roles** by combining strong 
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Sangam919&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Sangam919&color=blue&style=flat)
