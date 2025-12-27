@@ -1,70 +1,68 @@
 # 👋 Hi, I'm Sangam Srivastav
 
-🚀 **Software Engineering Student | AI & Data Enthusiast | Problem Solver**  
+🚀 **Software Engineering Student | Data & AI Enthusiast | Problem Solver**  
 🎓 B.Tech CSE @ Lovely Professional University  
-💼 **Ex-Intern @ Celebal Technologies | Ex-Intern @ SSH Infotech**
+💼 **Ex-Data Engineer Intern @ Celebal Technologies | Ex-Intern @ SSH Infotech**
 
 ---
 
 ## 💡 About Me
 
 I’m a **Computer Science Engineering student** with a strong foundation in  
-**Data Structures & Algorithms (DSA)**, **Machine Learning**, and **AI-driven application development**.
+**Data Structures & Algorithms (DSA)**, **Machine Learning**, and **data-driven system development**.
 
-I have previously worked as an **Intern at Celebal Technologies and SSH Infotech**, gaining hands-on experience with real-world software systems and industry practices.
-
-At **Celebal Technologies**, I worked on an **AI-powered Voice Assistant** using **Flutter**, integrating:
-- 🤖 Conversational AI (ChatGPT)
-- 🖼️ AI-based Image Generation
-- ⚙️ Intelligent workflows & automation
+I have previously worked as a **Data Engineer Intern at Celebal Technologies** and as an **Intern at SSH Infotech**, where I gained hands-on experience with:
+- Building and managing **data pipelines**
+- Working with **structured data, transformations, and analytics**
+- Understanding **industry-level data workflows and best practices**
 
 ---
 
 ## 🎯 Current Focus (Placement Preparation)
 
-Currently, I am fully focused on **placement preparation**, with emphasis on:
+Currently, I am **fully focused on placement preparation**, with emphasis on:
 - 🧠 **Data Structures & Algorithms (DSA)**
 - 📈 **Machine Learning & core AI concepts**
 - 🧪 **LeetCode & competitive programming**
 - 🏗️ **System design fundamentals**
 
-My goal is to crack **product-based and data-driven roles** by combining strong problem-solving skills with practical AI knowledge.
+My goal is to crack **product-based and data/data-engineering roles** by combining strong problem-solving skills with practical data knowledge.
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-- 🤖 AI & Machine Learning projects  
-- 🧠 NLP, Computer Vision & Predictive Analytics  
-- 📊 Data Science & Analytics applications  
-- 🏗️ End-to-End AI projects (Model → API → Application)
+- 📊 **Data Engineering & Analytics Projects**
+- 🤖 **Machine Learning applications**
+- 🧠 **NLP & predictive analytics (learning-focused)**
+- 🏗️ **End-to-End data systems (ETL → Analytics → ML)**
 
 ---
 
 ## 🆘 Looking for Guidance In
 
-- Advanced Machine Learning & Deep Learning  
-- Large Language Models (LLMs)  
-- MLOps & scalable AI deployment  
-- System design for real-world applications  
+- Advanced **Data Engineering concepts**
+- **Big Data tools & pipelines**
+- **MLOps & scalable data systems**
+- **System design** for data-intensive applications
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📈 Machine Learning & Data Science  
-- 🧠 Advanced DSA & Competitive Programming  
-- ☁️ Cloud & deployment fundamentals  
-- 🏗️ System design (Beginner → Intermediate)  
+- 📈 **Machine Learning fundamentals**
+- 🧠 **Advanced DSA & Competitive Programming**
+- ☁️ **Cloud & data deployment basics**
+- 🏗️ **System design for scalable systems**
 
 ---
 
 ## 💬 Ask Me About
 
-- Data Structures & Algorithms (DSA)  
-- Machine Learning & AI basics  
-- Internship experience  
-- Problem-solving strategies  
+- Data Structures & Algorithms (DSA)
+- Data Engineering basics
+- Internship experience & learning roadmap
+- Problem-solving strategies
 
 ---
 
@@ -75,10 +73,6 @@ My goal is to crack **product-based and data-driven roles** by combining strong 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 📱 App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
