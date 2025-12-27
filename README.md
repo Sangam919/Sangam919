@@ -2,22 +2,35 @@
 
 🚀 **Software Engineering Student | AI & Data Enthusiast | Problem Solver**  
 🎓 B.Tech CSE @ Lovely Professional University  
-💼 Ex-Intern @ Celebal Technologies , @ SSH Infotech
+💼 **Ex-Intern @ Celebal Technologies | Ex-Intern @ SSH Infotech**  
 
 ---
 
 ## 💡 About Me
 
-I’m a **Computer Science Engineering student** with a strong foundation in **Data Structures & Algorithms**, **Machine Learning**, and **AI-driven application development**.
+I’m a **Computer Science Engineering student** with a strong foundation in **Data Structures & Algorithms (DSA)**, **Machine Learning**, and **AI-driven application development**.
 
-Currently, I’m working as an **Intern at Celebal Technologies**, where I’m building an **AI-powered Voice Assistant** using **Flutter**, integrating advanced features like:
+I have previously worked as an **Intern at Celebal Technologies and SSH Infotech**, where I gained hands-on experience in:
+- Building **real-world software solutions**
+- Working with **AI/ML concepts and data-driven systems**
+- Understanding **industry-level development practices**
+
+During my internship at **Celebal Technologies**, I worked on an **AI-powered Voice Assistant** using **Flutter**, integrating features such as:
 - 🤖 Conversational AI (ChatGPT)
 - 🖼️ AI-based Image Generation
 - ⚙️ Intelligent workflows & automation
 
-Alongside this, I actively practice **LeetCode & competitive programming** to strengthen my **problem-solving and algorithmic thinking**, preparing myself for **product-based company roles**.
+---
 
-I enjoy building **real-world, scalable solutions** and continuously upgrading my skills in **AI, ML, and system design**.
+## 🎯 Current Focus (Placement Preparation)
+
+At present, I am **fully focused on placement preparation**, with major emphasis on:
+- 🧠 **Data Structures & Algorithms (DSA)**
+- 📈 **Machine Learning & Core AI Concepts**
+- 🧪 Problem-solving through **LeetCode & competitive programming**
+- 🏗️ Strengthening **system design fundamentals**
+
+My goal is to crack **product-based and data-driven roles** by combining strong **problem-solving skills** with **practical AI knowledge**.
 
 ---
 
@@ -26,8 +39,7 @@ I enjoy building **real-world, scalable solutions** and continuously upgrading m
 - 🤖 **AI & Machine Learning Projects**
 - 🧠 **NLP, Computer Vision & Predictive Analytics**
 - 📊 **Data Science & Analytics Applications**
-- 📱 **Flutter-based Cross-Platform Apps**
-- 🏗️ **End-to-End AI Products (Model → API → App)**
+- 🏗️ **End-to-End AI Projects (Model → API → Application)**
 
 ---
 
@@ -35,29 +47,29 @@ I enjoy building **real-world, scalable solutions** and continuously upgrading m
 
 - Advanced **Machine Learning & Deep Learning**
 - Working with **Large Language Models (LLMs)**
-- **Scalable AI deployment** & MLOps
+- **MLOps & scalable AI deployment**
 - **System Design** for real-world applications
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📈 **Data Science & Machine Learning**
-  - Deep Learning
-  - Model Optimization
-  - MLOps
-- ☁️ **Cloud Computing & DevOps**
-- 📱 **Flutter & Cross-Platform Development**
-- 🧠 **Competitive Programming & Advanced DSA**
+- 📈 **Machine Learning & Data Science**
+  - Core ML algorithms
+  - Deep Learning concepts
+  - Model optimization basics
+- 🧠 **Advanced DSA & Competitive Programming**
+- ☁️ **Cloud & deployment fundamentals**
+- 🏗️ **System Design (Beginner → Intermediate)**
 
 ---
 
 ## 💬 Ask Me About
 
 - Data Structures & Algorithms (DSA)
-- Machine Learning & AI Concepts
-- Flutter App Development
-- Data Science Projects & Problem Solving
+- Machine Learning & AI basics
+- Internship experience & learning roadmap
+- Problem-solving strategies
 
 ---
 
@@ -73,7 +85,7 @@ I enjoy building **real-world, scalable solutions** and continuously upgrading m
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & Deployment
