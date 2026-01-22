@@ -1,5 +1,4 @@
-<div align="center">
-# ✨ Welcome to Sangam Srivastav's GitHub ✨
+✨ Welcome to Sangam Srivastav's GitHub ✨
 
 <div align="center">
 
