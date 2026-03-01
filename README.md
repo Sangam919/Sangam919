@@ -80,19 +80,6 @@ Creating interactive dashboards for data visualization and insights
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangam919&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sangam919&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangam919&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
