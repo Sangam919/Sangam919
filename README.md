@@ -178,14 +178,6 @@ Enterprise automation pipeline using:
 
 ---
 
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangam919/Sangam919/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Sangam919/Sangam919/output/github-snake.svg"/>
-</picture>
-
----
 
 # 🌐 Connect With Me
 
